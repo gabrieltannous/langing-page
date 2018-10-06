@@ -1,0 +1,433 @@
+{
+    "localhost":
+    {
+        "favicon": "logo.png",
+        "logo": "logo.png",
+        "title": "Engraving Sydney",
+        "phone-number": "02 9809 5754",
+        "banner": {
+            "img": "a.png",
+            "text": "Welcome to EngravingSydney.com, the Engraving Specialists you have been looking for"
+        },
+        "form": {
+            "title": "Fee Proposal",
+            "fields": [
+                {
+                    "tag": "input",
+                    "attributes": {
+                        "type": "hidden",
+                        "name": "g-recaptcha-response",
+                        "id": "g-recaptcha-response",
+                        "required": "no"
+                    }
+                },
+                {
+                    "tag": "input",
+                    "attributes": {
+                        "type": "text",
+                        "name": "full-name",
+                        "placeholder": "Name",
+                        "required": "yes"
+                    }
+                },
+                {
+                    "tag": "input",
+                    "attributes": {
+                        "type": "text",
+                        "name": "company",
+                        "class": "no-mobile",
+                        "placeholder": "Company"
+                    }
+                },
+                {
+                    "tag": "input",
+                    "attributes": {
+                        "type": "email",
+                        "name": "email",
+                        "placeholder": "Email",
+                        "required": "yes"
+                    }
+                },
+                {
+                    "tag": "input",
+                    "attributes": {
+                        "type": "text",
+                        "name": "phone",
+                        "placeholder": "Phone",
+                        "required": "yes"
+                    }
+                },
+                {
+                    "tag": "input",
+                    "attributes": {
+                        "type": "text",
+                        "name": "state",
+                        "class": "no-mobile",
+                        "placeholder": "State"
+                    }
+                },
+                {
+                    "tag": "input",
+                    "attributes": {
+                        "type": "text",
+                        "name": "suburb",
+                        "class": "no-mobile",
+                        "placeholder": "Suburb"
+                    }
+                },
+                {
+                    "tag": "textarea",
+                    "attributes": {
+                        "type": "text",
+                        "name": "message",
+                        "placeholder": "Message...",
+                        "required": "yes"
+                    }
+                },
+                {
+                    "tag": "input",
+                    "attributes": {
+                        "type": "checkbox",
+                        "name": "installation",
+                        "class": "no-mobile"
+                    }
+                },
+                {
+                    "tag": "label",
+                    "attributes": {
+                        "value": "Installation Required?<br>(Sydney Only)",
+                        "id": "chkInstallation",
+                        "class": "no-mobile"
+                    }
+                },
+                {
+                    "tag" : "p",
+                    "attributes": {
+                        "value": "Attach Files (Max 4mb)",
+                        "class": "no-mobile"
+                    }
+                },
+                {
+                    "tag": "input",
+                    "attributes": {
+                        "type": "file",
+                        "name": "upload[]",
+                        "class": "no-mobile"
+                    }
+                },
+                {
+                    "tag": "input",
+                    "attributes": {
+                        "type": "file",
+                        "name": "upload[]",
+                        "class": "no-mobile"
+                    }
+                },
+                {
+                    "tag": "input",
+                    "attributes": {
+                        "type": "file",
+                        "name": "upload[]",
+                        "class": "no-mobile"
+                    }
+                },
+                {
+                    "tag": "input",
+                    "attributes": {
+                        "type": "file",
+                        "name": "upload[]",
+                        "class": "no-mobile"
+                    }
+                }
+            ],
+            "mail" : {
+                "to" : "gaby@intelli.com.au",
+                "header" : "the header",
+                "subject" : "subject" 
+            }
+        },
+        "sections": [
+            {
+                "type": "about",
+                "background": "",
+                "title" : "Who we are",
+                "img": "plates.png",
+                "text": "\"With over 45 year's engraving experience, our company is a market leader in our field. We have built our reputation on supplying quality signage to the manufacturing and construction industries. With our wealth of engraving experience no job is too big or too small. Contact us using the form on the right for an obligation free quote.\""
+            },
+            {
+                "type": "slid",
+                "background": "",
+                "title": "Consider",
+                "img": "slid.jpg",
+                "text": ["Engraving jobs can be bubble-wrapped, packaged and delivered Australia-wide.", "SAVE $$$ by dealing directly with us, the manufacturer"]
+            },
+            {
+                "type": "specials",
+                "background": "",
+                "title": "",
+                "img": "EngravingSydney4.jpg",
+                "text": ["Unsurpassed Quality", "Best Possible Delivery Times", "Substantial Cost Savings", "One-Stop Shop for All Your Engraving Requirements (including milling-profiling)", "Speak Directly with Our Technical Staff", "Advice on Design if Required"]
+            }
+        ],
+        "manufacturers": [
+            {
+                "name": "Building Signs",
+                "href": "http://www.stainlesssteelsigns.com.au"
+            },
+            {
+                "name": "Construction Signs",
+                "href": "http://www.industrialengraving.com.au"
+            },
+            {
+                "name": "Fire Services",
+                "href": "http://www.blockplans.com.au"
+            },
+            {
+                "name": "Vinyl",
+                "href": "http://www.vinylstickerssydney.com"
+            },
+            {
+                "name": "Block Plans",
+                "href": "http://www.blockplans.com.au"
+            },
+            {
+                "name": "Cut-Out Letters",
+                "href": "http://www.stainlesssteelsigns.com.au"
+            },
+            {
+                "name": "Cut-Out Shapes",
+                "href": "http://www.stainlesssteelsigns.com.au"
+            },
+            {
+                "name": "Commemorative Memorial Plaques",
+                "href": "http://www.memorialplaquessydney.com"
+            },
+            {
+                "name": "Vinyl Stickers",
+                "href": "http://www.vinylstickerssydney.com"
+            }
+        ],
+        "google" : {
+            "gtm-id": "",
+            "aid": "",
+            "recaptcha-site-key": "",
+            "recaptcha-secret-key": ""
+        }
+    },
+
+    "engraving-sydney.000webhostapp.com":
+    {
+        "favicon": "logo.png",
+        "logo": "logo.png",
+        "title": "Engraving Sydney",
+        "phone-number": "02 9809 5754",
+        "banner": {
+            "img": "a.png",
+            "text": "Welcome to EngravingSydney.com, the Engraving Specialists you have been looking for"
+        },
+        "form": {
+            "title": "Fee Proposal",
+            "fields": [
+                {
+                    "tag": "input",
+                    "attributes": {
+                        "type": "hidden",
+                        "name": "g-recaptcha-response",
+                        "id": "g-recaptcha-response",
+                        "required": "no"
+                    }
+                },
+                {
+                    "tag": "input",
+                    "attributes": {
+                        "type": "text",
+                        "name": "full-name",
+                        "placeholder": "Name",
+                        "required": "yes"
+                    }
+                },
+                {
+                    "tag": "input",
+                    "attributes": {
+                        "type": "text",
+                        "name": "company",
+                        "class": "no-mobile",
+                        "placeholder": "Company"
+                    }
+                },
+                {
+                    "tag": "input",
+                    "attributes": {
+                        "type": "email",
+                        "name": "email",
+                        "placeholder": "Email",
+                        "required": "yes"
+                    }
+                },
+                {
+                    "tag": "input",
+                    "attributes": {
+                        "type": "text",
+                        "name": "phone",
+                        "placeholder": "Phone",
+                        "required": "yes"
+                    }
+                },
+                {
+                    "tag": "input",
+                    "attributes": {
+                        "type": "text",
+                        "name": "state",
+                        "class": "no-mobile",
+                        "placeholder": "State"
+                    }
+                },
+                {
+                    "tag": "input",
+                    "attributes": {
+                        "type": "text",
+                        "name": "suburb",
+                        "class": "no-mobile",
+                        "placeholder": "Suburb"
+                    }
+                },
+                {
+                    "tag": "textarea",
+                    "attributes": {
+                        "type": "text",
+                        "name": "message",
+                        "placeholder": "Message...",
+                        "required": "yes"
+                    }
+                },
+                {
+                    "tag": "input",
+                    "attributes": {
+                        "type": "checkbox",
+                        "name": "installation",
+                        "class": "no-mobile"
+                    }
+                },
+                {
+                    "tag": "label",
+                    "attributes": {
+                        "value": "Installation Required?<br>(Sydney Only)",
+                        "id": "chkInstallation",
+                        "class": "no-mobile"
+                    }
+                },
+                {
+                    "tag" : "p",
+                    "attributes": {
+                        "value": "Attach Files (Max 4mb)",
+                        "class": "no-mobile"
+                    }
+                },
+                {
+                    "tag": "input",
+                    "attributes": {
+                        "type": "file",
+                        "name": "upload[]",
+                        "class": "no-mobile"
+                    }
+                },
+                {
+                    "tag": "input",
+                    "attributes": {
+                        "type": "file",
+                        "name": "upload[]",
+                        "class": "no-mobile"
+                    }
+                },
+                {
+                    "tag": "input",
+                    "attributes": {
+                        "type": "file",
+                        "name": "upload[]",
+                        "class": "no-mobile"
+                    }
+                },
+                {
+                    "tag": "input",
+                    "attributes": {
+                        "type": "file",
+                        "name": "upload[]",
+                        "class": "no-mobile"
+                    }
+                }
+            ],
+            "mail" : {
+                "to" : "gaby@intelli.com.au",
+                "header" : "the header",
+                "subject" : "subject" 
+            }
+        },
+        "sections": [
+            {
+                "type": "about",
+                "background": "",
+                "title" : "Who we are",
+                "img": "plates.png",
+                "text": "\"With over 45 year's engraving experience, our company is a market leader in our field. We have built our reputation on supplying quality signage to the manufacturing and construction industries. With our wealth of engraving experience no job is too big or too small. Contact us using the form on the right for an obligation free quote.\""
+            },
+            {
+                "type": "slid",
+                "background": "",
+                "title": "Consider",
+                "img": "slid.jpg",
+                "text": ["Engraving jobs can be bubble-wrapped, packaged and delivered Australia-wide.", "SAVE $$$ by dealing directly with us, the manufacturer"]
+            },
+            {
+                "type": "specials",
+                "background": "",
+                "title": "",
+                "img": "EngravingSydney4.jpg",
+                "text": ["Unsurpassed Quality", "Best Possible Delivery Times", "Substantial Cost Savings", "One-Stop Shop for All Your Engraving Requirements (including milling-profiling)", "Speak Directly with Our Technical Staff", "Advice on Design if Required"]
+            }
+        ],
+        "manufacturers": [
+            {
+                "name": "Building Signs",
+                "href": "http://www.stainlesssteelsigns.com.au"
+            },
+            {
+                "name": "Construction Signs",
+                "href": "http://www.industrialengraving.com.au"
+            },
+            {
+                "name": "Fire Services",
+                "href": "http://www.blockplans.com.au"
+            },
+            {
+                "name": "Vinyl",
+                "href": "http://www.vinylstickerssydney.com"
+            },
+            {
+                "name": "Block Plans",
+                "href": "http://www.blockplans.com.au"
+            },
+            {
+                "name": "Cut-Out Letters",
+                "href": "http://www.stainlesssteelsigns.com.au"
+            },
+            {
+                "name": "Cut-Out Shapes",
+                "href": "http://www.stainlesssteelsigns.com.au"
+            },
+            {
+                "name": "Commemorative Memorial Plaques",
+                "href": "http://www.memorialplaquessydney.com"
+            },
+            {
+                "name": "Vinyl Stickers",
+                "href": "http://www.vinylstickerssydney.com"
+            }
+        ],
+        "google" : {
+            "gtm-id": "",
+            "aid": "",
+            "recaptcha-site-key": "",
+            "recaptcha-secret-key": ""
+        }
+    }
+}
